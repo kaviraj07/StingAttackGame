@@ -1,0 +1,17 @@
+Game - Sting Attack
+Author - Gosaye kaviraj
+ID: 1810045
+
+Instructions:
+
+1)Move the keyboard keys left and right to move the main character.
+
+2)Defend the character by attacking the Mutant Wasps.
+
+3)Click to attack with scyth and score points
+
+4)Long Click to attack continuously.
+
+5)You die if a Mutant Wasp stings you.
+
+
