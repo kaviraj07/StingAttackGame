@@ -1,4 +1,4 @@
-# StingAttackGame
+# StingAttackGame | [Play Game](https://kaviraj07.github.io/StingAttackGame/)
 
 This is a simple JavaScript game developed for the module of Multimedia and Web Authoring in Year 2 of Applied Computing. The objectives were to make use of GIMP Tool to create sprites and create a game from scratch without any game frameworks/libraries.
 
@@ -26,5 +26,8 @@ Mauritian )
 >* Link character movements to Keyboard keys + mouse movements.
 >* Include sounds
 >* Make it nice and lively.
+
+## Video Demo
+https://user-images.githubusercontent.com/45905404/162004082-2dea8b1e-590d-40a9-9364-b9d8c77dd432.mp4
 
 ## Link: [Click Here To Play](https://kaviraj07.github.io/StingAttackGame/)
