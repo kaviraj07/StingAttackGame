@@ -14,11 +14,8 @@ kicking etc in any direction..)
 3. You will need to create these actions as SPRITES based on your own photographs (You).
 
 >* Photoshoot yourself in these positions – it should be full body
-
 >* Each sprite actions should have at least 5 pictures
-
 >* Cartoonise your pictures as below ( should be full body)
-
 >* Rework these cartoonised pictures in SPRITE formats
 
 4. Work out your OWN background and your other accessories ( not from the internet – kindly make it
